@@ -5,7 +5,7 @@ import numpy as np
 ROW_COUNT = 100
 COLUMN_COUNT = 100
 DENSITY = 0.2
-SCREEN_TITLE = "TESTING"
+SCREEN_TITLE = "Game Of Life"
 
 WIDTH = 20
 HEIGHT = 20
